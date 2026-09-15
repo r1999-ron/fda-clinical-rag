@@ -1,0 +1,94 @@
+{
+  "documents": {
+    "01_clinical_trial_guidance": {
+      "filename": "01_clinical_trial_guidance.pdf",
+      "hash": "203470caa1ad2633d7f48d959155762bd14c29b1f38c3b04635d4192bbb452b7",
+      "chunk_count": 60,
+      "indexed_at": "2026-09-01T18:31:29.730257+00:00"
+    },
+    "02_adverse_event_reporting": {
+      "filename": "02_adverse_event_reporting.pdf",
+      "hash": "1091c26af1d4d650db811997ef08676951d45067515c4dfe1e9e8544f03218e1",
+      "chunk_count": 104,
+      "indexed_at": "2026-09-01T18:31:29.730295+00:00"
+    },
+    "03_drug_safety_guidance": {
+      "filename": "03_drug_safety_guidance.pdf",
+      "hash": "9b49b108f88e04eaa63143f9ace07b0fef878e40353b198581dfb603c24e1b20",
+      "chunk_count": 294,
+      "indexed_at": "2026-09-01T18:31:29.730300+00:00"
+    },
+    "04_good_clinical_practice": {
+      "filename": "04_good_clinical_practice.pdf",
+      "hash": "bf02bbc6a2a7e81ad0f07dfbe990883a23328bea85e6e7dcc880649390915f86",
+      "chunk_count": 318,
+      "indexed_at": "2026-09-01T18:31:29.730303+00:00"
+    },
+    "05_informed_consent_guidance": {
+      "filename": "05_informed_consent_guidance.pdf",
+      "hash": "c60dba8ea299ec70b614db69db38a49eca25d96af539cee367a215e32148624e",
+      "chunk_count": 163,
+      "indexed_at": "2026-09-01T18:31:29.730307+00:00"
+    },
+    "06_trial_protocol_guidance": {
+      "filename": "06_trial_protocol_guidance.pdf",
+      "hash": "8ca4c05cace3d271e4e421a9cbb8b9bf73ab6737b9f306567300f8a7a4b70fc9",
+      "chunk_count": 166,
+      "indexed_at": "2026-09-05T07:02:37.754706+00:00"
+    },
+    "07_investigator_responsibilities": {
+      "filename": "07_investigator_responsibilities.pdf",
+      "hash": "c597c1d15d048c48d94be46710658eebdff9c8017f82ec3f04ebd54ad16e577c",
+      "chunk_count": 98,
+      "indexed_at": "2026-09-05T07:02:39.877104+00:00"
+    },
+    "08_sponsor_responsibilities": {
+      "filename": "08_sponsor_responsibilities.pdf",
+      "hash": "7124849af0417893a1c5d93fa6ccf2c4b4c67d5945e09060ae3977f6e0646bac",
+      "chunk_count": 341,
+      "indexed_at": "2026-09-05T07:02:45.814359+00:00"
+    },
+    "09_irb_guidance": {
+      "filename": "09_irb_guidance.pdf",
+      "hash": "bd947f3275a51919210a3c055f8cce7584e8e52b82eb69ccf29a0634b0b31905",
+      "chunk_count": 130,
+      "indexed_at": "2026-09-05T07:02:48.360430+00:00"
+    },
+    "10_safety_monitoring": {
+      "filename": "10_safety_monitoring.pdf",
+      "hash": "fa88a798bb9b9c68d553e29ed5bafae2daadcfa60006863813ec25d2df4efba5",
+      "chunk_count": 326,
+      "indexed_at": "2026-09-05T07:02:53.979141+00:00"
+    },
+    "11_clinical_data_integrity": {
+      "filename": "11_clinical_data_integrity.pdf",
+      "hash": "0869d9a956fcf45a143b32e905de15a4a1195fa350512502468d434a92bd6dc7",
+      "chunk_count": 137,
+      "indexed_at": "2026-09-05T07:02:56.133772+00:00"
+    },
+    "12_postmarketing_safety_reporting": {
+      "filename": "12_postmarketing_safety_reporting.pdf",
+      "hash": "7598c88cecdd7bb1015a3a2988adfbbdd72031b349acb9e2d6510d4bf967c824",
+      "chunk_count": 102,
+      "indexed_at": "2026-09-05T07:02:58.285733+00:00"
+    },
+    "13_research_subject_protections": {
+      "filename": "13_research_subject_protections.pdf",
+      "hash": "ac9f6dabf9a5e9cd914f51ad12e26b23ced1c739e58f1c466c945de4c545ed34",
+      "chunk_count": 131,
+      "indexed_at": "2026-09-05T07:03:01.368207+00:00"
+    },
+    "14_electronic_records_guidance": {
+      "filename": "14_electronic_records_guidance.pdf",
+      "hash": "306013031df65004566799023444b3fd66d17dca72eea4c7eb5bacfd4a697ac5",
+      "chunk_count": 85,
+      "indexed_at": "2026-09-05T07:03:03.188463+00:00"
+    },
+    "15_clinical_trial_reporting": {
+      "filename": "15_clinical_trial_reporting.pdf",
+      "hash": "e115ab1e40c5758b1e6d481e68943fb18e5ff957ac6238fb8e9ff420f38748b4",
+      "chunk_count": 79,
+      "indexed_at": "2026-09-05T07:03:05.084967+00:00"
+    }
+  }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "Q01",
+    "question": "What risks must be explained during informed consent?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["05_informed_consent_guidance.pdf"]
+  },
+  {
+    "id": "Q02",
+    "question": "Can a participant withdraw from a clinical trial?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["05_informed_consent_guidance.pdf"]
+  },
+  {
+    "id": "Q03",
+    "question": "What alternative procedures or treatments should be explained during informed consent?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["05_informed_consent_guidance.pdf"]
+  },
+  {
+    "id": "Q04",
+    "question": "What is a master protocol?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["06_trial_protocol_guidance.pdf"]
+  },
+  {
+    "id": "Q05",
+    "question": "What are the main advantages of using a master protocol?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["06_trial_protocol_guidance.pdf"]
+  },
+  {
+    "id": "Q06",
+    "question": "When can treatment arms be added or stopped in a master protocol?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["06_trial_protocol_guidance.pdf"]
+  },
+  {
+    "id": "Q07",
+    "question": "What responsibilities does a clinical investigator have for protecting trial participants?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["07_investigator_responsibilities.pdf"]
+  },
+  {
+    "id": "Q08",
+    "question": "What should an investigator do when a serious adverse event occurs?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["07_investigator_responsibilities.pdf"]
+  },
+  {
+    "id": "Q09",
+    "question": "What responsibilities does an investigator have when supervising delegated trial activities?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["07_investigator_responsibilities.pdf"]
+  },
+  {
+    "id": "Q10",
+    "question": "What safety reporting responsibilities does a sponsor have?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["08_sponsor_responsibilities.pdf"]
+  },
+  {
+    "id": "Q11",
+    "question": "How should a sponsor evaluate accumulating safety information?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["08_sponsor_responsibilities.pdf"]
+  },
+  {
+    "id": "Q12",
+    "question": "When must a sponsor submit an IND safety report?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["08_sponsor_responsibilities.pdf"]
+  },
+  {
+    "id": "Q13",
+    "question": "What are the responsibilities of an Institutional Review Board?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["09_irb_guidance.pdf"]
+  },
+  {
+    "id": "Q14",
+    "question": "How should an IRB communicate required modifications to investigators?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["09_irb_guidance.pdf"]
+  },
+  {
+    "id": "Q15",
+    "question": "What requirements apply to IRB membership and independence?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["09_irb_guidance.pdf"]
+  },
+  {
+    "id": "Q16",
+    "question": "How should clinical trial safety be monitored?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["10_safety_monitoring.pdf", "11_clinical_data_integrity.pdf"]
+  },
+  {
+    "id": "Q17",
+    "question": "What is risk-based monitoring in a clinical trial?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["10_safety_monitoring.pdf", "11_clinical_data_integrity.pdf"]
+  },
+  {
+    "id": "Q18",
+    "question": "What factors should determine the intensity of clinical trial monitoring?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["10_safety_monitoring.pdf"]
+  },
+  {
+    "id": "Q19",
+    "question": "How should investigators ensure the accuracy and completeness of clinical trial data?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["11_clinical_data_integrity.pdf"]
+  },
+  {
+    "id": "Q20",
+    "question": "What responsibilities do sponsors have for ensuring data integrity in clinical trials?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["11_clinical_data_integrity.pdf"]
+  },
+  {
+    "id": "Q21",
+    "question": "What are the requirements for postmarketing safety reporting?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["12_postmarketing_safety_reporting.pdf"]
+  },
+  {
+    "id": "Q22",
+    "question": "How should postmarketing safety reports be submitted to FDA?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["12_postmarketing_safety_reporting.pdf"]
+  },
+  {
+    "id": "Q23",
+    "question": "What protections are required for people participating in clinical research?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["13_research_subject_protections.pdf"]
+  },
+  {
+    "id": "Q24",
+    "question": "How should sponsors protect the rights and welfare of research subjects?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["13_research_subject_protections.pdf"]
+  },
+  {
+    "id": "Q25",
+    "question": "What controls are required for electronic clinical records and electronic signatures?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_sources": ["14_electronic_records_guidance.pdf"]
+  },
+
+  {
+  "id": "Q26",
+  "question": "What does 21 CFR 50.25(a)(2) require?",
+  "query_type": "regulatory_identifier",
+  "answerable": true,
+
+  "expected_sources": [
+    "05_informed_consent_guidance.pdf"
+  ],
+
+  "expected_chunk_ids": [
+    "05_informed_consent_guidance_page_10_chunk_11"
+  ],
+
+  "expected_terms": [
+    "reasonably foreseeable",
+    "risks",
+    "discomforts"
+  ]
+},
+  {
+  "id": "Q27",
+  "question": "What does 45 CFR 46.116(b)(2) require?",
+  "query_type": "regulatory_identifier",
+  "answerable": true,
+  "expected_sources": [
+    "05_informed_consent_guidance.pdf"
+  ],
+  "expected_chunk_ids": ["05_informed_consent_guidance_page_10_chunk_11"]
+},
+  {
+  "id": "Q28",
+  "question": "What are the sponsor obligations under 21 CFR 312.32?",
+  "query_type": "regulatory_identifier",
+  "answerable": true,
+  "expected_sources": [
+    "08_sponsor_responsibilities.pdf",
+    "06_trial_protocol_guidance.pdf"
+  ],
+  "expected_chunk_ids": ["08_sponsor_responsibilities_page_37_chunk_7"]
+},
+  {
+    "id": "Q29",
+    "question": "What does 21 CFR 312.66 require of investigators?",
+    "query_type": "regulatory_identifier",
+    "answerable": true,
+    "expected_sources": ["07_investigator_responsibilities.pdf", "06_trial_protocol_guidance.pdf"],
+    "expected_chunk_ids": ["07_investigator_responsibilities_page_4_chunk_3", "06_trial_protocol_guidance_page_17_chunk_5"]
+  },
+  {
+    "id": "Q30",
+    "question": "What requirements are covered by 21 CFR Part 11?",
+    "query_type": "regulatory_identifier",
+    "answerable": true,
+    "expected_sources": ["14_electronic_records_guidance.pdf"],
+    "expected_chunk_ids": [
+      "14_electronic_records_guidance_page_4_chunk_3",
+      "14_electronic_records_guidance_page_4_chunk_5",
+      "14_electronic_records_guidance_page_9_chunk_3"
+    ]
+  },
+  {
+    "id": "Q31",
+    "question": "What does 21 CFR 56.108 require for IRB procedures?",
+    "query_type": "regulatory_identifier",
+    "answerable": true,
+    "expected_sources": ["09_irb_guidance.pdf"],
+    "expected_chunk_ids": [
+      "09_irb_guidance_page_5_chunk_2",
+      "09_irb_guidance_page_7_chunk_3",
+      "09_irb_guidance_page_8_chunk_5"
+    ]
+  },
+  {
+    "id": "Q32",
+    "question": "What sponsor responsibilities are described in 21 CFR 312.50?",
+    "query_type": "regulatory_identifier",
+    "answerable": true,
+    "expected_sources": ["08_sponsor_responsibilities.pdf", "06_trial_protocol_guidance.pdf"],
+    "expected_chunk_ids": ["06_trial_protocol_guidance_page_15_chunk_6"]
+  },
+
+  {
+    "id": "Q33",
+    "question": "Who is responsible for identifying, evaluating and communicating serious safety issues during a clinical trial?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_sources": [
+      "07_investigator_responsibilities.pdf",
+      "08_sponsor_responsibilities.pdf",
+      "10_safety_monitoring.pdf",
+      "06_trial_protocol_guidance.pdf"
+    ]
+  },
+  {
+    "id": "Q34",
+    "question": "How do investigator and sponsor safety reporting responsibilities differ?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_sources": [
+      "07_investigator_responsibilities.pdf",
+      "08_sponsor_responsibilities.pdf"
+    ]
+  },
+  {
+    "id": "Q35",
+    "question": "How do IRB review requirements relate to informed consent?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_sources": [
+      "09_irb_guidance.pdf",
+      "05_informed_consent_guidance.pdf",
+      "06_trial_protocol_guidance.pdf"
+    ]
+  },
+  {
+    "id": "Q36",
+    "question": "How should participant safety be monitored and adverse events be handled during a trial?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_sources": [
+      "10_safety_monitoring.pdf",
+      "11_clinical_data_integrity.pdf",
+      "07_investigator_responsibilities.pdf"
+    ]
+  },
+  {
+    "id": "Q37",
+    "question": "How do electronic records requirements support good clinical practice?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_sources": [
+      "14_electronic_records_guidance.pdf",
+      "04_good_clinical_practice.pdf"
+    ]
+  },
+  {
+    "id": "Q38",
+    "question": "What rights do research subjects have regarding participation and withdrawal?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_sources": [
+      "05_informed_consent_guidance.pdf",
+      "13_research_subject_protections.pdf"
+    ]
+  },
+  {
+    "id": "Q39",
+    "question": "How should safety information from clinical studies flow into postmarketing reporting?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_sources": [
+      "08_sponsor_responsibilities.pdf",
+      "12_postmarketing_safety_reporting.pdf"
+    ]
+  },
+
+  {
+    "id": "Q40",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "query_type": "unanswerable",
+    "answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q41",
+    "question": "What is the capital of Australia?",
+    "query_type": "unanswerable",
+    "answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q42",
+    "question": "How do I configure Kubernetes horizontal pod autoscaling?",
+    "query_type": "unanswerable",
+    "answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q43",
+    "question": "What is the current stock price of Apple?",
+    "query_type": "unanswerable",
+    "answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q44",
+    "question": "How do I reset a forgotten Gmail password?",
+    "query_type": "unanswerable",
+    "answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q45",
+    "question": "What is the weather in Hyderabad today?",
+    "query_type": "unanswerable",
+    "answerable": false,
+    "expected_sources": []
+  }
+]

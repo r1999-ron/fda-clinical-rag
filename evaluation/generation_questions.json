@@ -1,0 +1,221 @@
+[
+  {
+    "id": "g01",
+    "question": "Can a participant withdraw from a clinical trial?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "withdraw",
+      "discontinue",
+      "penalty"
+    ],
+    "reference_answer": "Participation is voluntary and participants may discontinue participation without penalty or loss of benefits to which they are otherwise entitled."
+  },
+  {
+    "id": "g02",
+    "question": "What risks must be explained during informed consent?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "risks",
+      "discomforts"
+    ],
+    "reference_answer": "The informed consent process should explain reasonably foreseeable risks and discomforts associated with participation."
+  },
+  {
+    "id": "g03",
+    "question": "What alternative procedures or treatments should be explained during informed consent?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "alternative",
+      "treatment"
+    ],
+    "reference_answer": "Prospective subjects should be informed about appropriate alternative procedures or courses of treatment that may be available."
+  },
+  {
+    "id": "g04",
+    "question": "What is a master protocol?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "master protocol"
+    ]
+  },
+  {
+    "id": "g05",
+    "question": "What are the main advantages of using a master protocol?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "master protocol"
+    ]
+  },
+  {
+    "id": "g06",
+    "question": "What responsibilities does a clinical investigator have for protecting trial participants?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "investigator",
+      "subjects"
+    ]
+  },
+  {
+    "id": "g07",
+    "question": "What should an investigator do when a serious adverse event occurs?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "serious adverse event",
+      "report"
+    ]
+  },
+  {
+    "id": "g08",
+    "question": "What safety reporting responsibilities does a sponsor have?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "sponsor",
+      "safety"
+    ]
+  },
+  {
+    "id": "g09",
+    "question": "What are the responsibilities of an Institutional Review Board?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "IRB",
+      "review"
+    ]
+  },
+  {
+    "id": "g10",
+    "question": "How should clinical trial safety be monitored?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "monitoring",
+      "safety"
+    ]
+  },
+  {
+    "id": "g11",
+    "question": "What are the requirements for postmarketing safety reporting?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "postmarketing",
+      "safety"
+    ]
+  },
+  {
+    "id": "g12",
+    "question": "What controls are required for electronic clinical records and electronic signatures?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "electronic records",
+      "electronic signatures"
+    ]
+  },
+  {
+    "id": "g13",
+    "question": "What requirements are covered by 21 CFR Part 11?",
+    "query_type": "semantic",
+    "answerable": true,
+    "expected_answer_terms": [
+      "electronic records",
+      "electronic signatures"
+    ]
+  },
+  {
+    "id": "g14",
+    "question": "What does 21 CFR 50.25(a)(2) require?",
+    "query_type": "regulatory_identifier",
+    "answerable": true,
+    "expected_answer_terms": [
+      "risks",
+      "discomforts"
+    ],
+    "reference_answer": "21 CFR 50.25(a)(2) requires informed consent to describe reasonably foreseeable risks or discomforts to the subject."
+  },
+  {
+    "id": "g15",
+    "question": "What does 21 CFR 312.66 require of investigators?",
+    "query_type": "regulatory_identifier",
+    "answerable": true,
+    "expected_answer_terms": [
+      "investigator",
+      "IRB"
+    ]
+  },
+  {
+    "id": "g16",
+    "question": "What does 21 CFR 56.108 require for IRB procedures?",
+    "query_type": "regulatory_identifier",
+    "answerable": true,
+    "expected_answer_terms": [
+      "IRB",
+      "procedures"
+    ]
+  },
+  {
+    "id": "g17",
+    "question": "How do investigator and sponsor safety reporting responsibilities differ?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_answer_terms": [
+      "investigator",
+      "sponsor"
+    ]
+  },
+  {
+    "id": "g18",
+    "question": "What rights do research subjects have regarding participation and withdrawal?",
+    "query_type": "cross_document",
+    "answerable": true,
+    "expected_answer_terms": [
+      "participation",
+      "withdraw"
+    ]
+  },
+  {
+    "id": "g19",
+    "question": "What is the capital of Australia?",
+    "query_type": "unanswerable",
+    "answerable": false
+  },
+  {
+    "id": "g20",
+    "question": "How do I configure Kubernetes horizontal pod autoscaling?",
+    "query_type": "unanswerable",
+    "answerable": false
+  },
+  {
+    "id": "g21",
+    "question": "What is the current stock price of Apple?",
+    "query_type": "unanswerable",
+    "answerable": false
+  },
+  {
+    "id": "g22",
+    "question": "How do I reset a forgotten Gmail password?",
+    "query_type": "unanswerable",
+    "answerable": false
+  },
+  {
+    "id": "g23",
+    "question": "What is the weather in Hyderabad today?",
+    "query_type": "unanswerable",
+    "answerable": false
+  },
+  {
+    "id": "g24",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "query_type": "unanswerable",
+    "answerable": false
+  }
+]

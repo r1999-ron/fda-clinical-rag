@@ -1,0 +1,14 @@
+langchain
+langchain-community~=0.4.2
+langchain-text-splitters~=1.1.2
+langchain-openai~=1.6.0
+langchain-qdrant
+qdrant-client~=1.19.0
+pypdf
+python-dotenv~=1.2.3
+tiktoken
+sentence-transformers~=6.0.0
+pydantic~=2.13.4
+fastapi~=0.141.1
+langchain-core~=1.6.0
+rank-bm25~=0.2.2

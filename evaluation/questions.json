@@ -1,0 +1,281 @@
+[
+  {
+    "id": "q1",
+    "question": "Can a participant withdraw from a clinical trial?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [18],
+    "expected_terms": [
+      "leave at any time",
+      "without penalty",
+      "voluntary"
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "What risks must be explained during informed consent?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10, 11],
+    "expected_terms": [
+      "risks and discomforts",
+      "serious risks",
+      "common"
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "What information about alternative procedures should be provided?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [12],
+    "expected_terms": [
+      "alternative procedures",
+      "courses of treatment",
+      "potential benefits"
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "Should informed consent explain the most common and serious risks?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "most common",
+      "serious risks",
+      "risks and discomforts"
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "Where should important risk information appear in the informed consent document?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "first page",
+      "key information section",
+      "risks and discomforts"
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "What should happen if all risk-related information is not included in the key information section?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "cross-reference",
+      "hyperlink",
+      "risk-related information"
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "Should consent distinguish risks from the investigational product from risks caused by other research procedures?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [11],
+    "expected_terms": [
+      "clearly delineate",
+      "investigational medical product",
+      "research interventions"
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "Should participants be informed that participation may not improve their condition?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [11],
+    "expected_terms": [
+      "may not improve",
+      "exacerbate",
+      "condition"
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "What should participants be told about placebo or sham procedures?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "placebo",
+      "sham procedure",
+      "study design"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "Should informed consent explain how subjects are assigned to treatment groups?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "randomization",
+      "assigned",
+      "regimen"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Should participants be told what treatment options are available after the study?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "treatment",
+      "intervention options",
+      "following the study"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "How should study care be compared with the care a person would receive outside the study?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10, 12],
+    "expected_terms": [
+      "care",
+      "not enrolled",
+      "differs"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "Why should prospective subjects be made aware of alternative treatments?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [12],
+    "expected_terms": [
+      "awareness of alternatives",
+      "individual values",
+      "preferences"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "What risks and benefits of alternative treatments should be discussed?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [12],
+    "expected_terms": [
+      "reasonably foreseeable risks",
+      "discomforts",
+      "potential benefits"
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "Should all detailed risks and benefits of every alternative treatment be included in the key information section?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [12],
+    "expected_terms": [
+      "lengthy and detailed",
+      "risks and benefits",
+      "remainder of the consent document"
+    ]
+  },
+    {
+    "id": "q16",
+    "question": "Find the reference to 21 CFR 50.25(a)(2).",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "21 CFR 50.25(a)(2)"
+    ]
+  },
+      {
+    "id": "q17",
+    "question": "Find the reference to 45 CFR 46.116(b)(2).",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "45 CFR 46.116(b)(2)"
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "What is therapeutic misconception?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [11],
+    "expected_terms": [
+      "therapeutic misconception"
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "What does the guidance say about randomization?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "randomization"
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "What does the guidance say about placebo or sham procedures?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10],
+    "expected_terms": [
+      "placebo",
+      "sham procedure"
+    ]
+  },
+      {
+    "id": "q21",
+    "question": "Find the reference to 21 CFR 50.25(a)(4).",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [12],
+    "expected_terms": [
+      "21 CFR 50.25(a)(4)"
+    ]
+  },
+  {
+    "id": "q22",
+    "question": "What does the informed consent guidance say about research-related injuries?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [12, 13],
+    "expected_terms": [
+      "medical treatments",
+      "compensation"
+    ]
+  },
+  {
+    "id": "q23",
+    "question": "What does the guidance say about costs related to subject participation?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [13],
+    "expected_terms": [
+      "costs",
+      "health insurance"
+    ]
+  },
+  {
+    "id": "q24",
+    "question": "What potential risks to third parties may need to be highlighted?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [13],
+    "expected_terms": [
+      "radioactive interventions",
+      "virus"
+    ]
+  },
+  {
+    "id": "q25",
+    "question": "What is FDA-2011-D-0469?",
+    "expected_source": "03_drug_safety_guidance.pdf",
+    "expected_pages": [2],
+    "expected_terms": [
+      "FDA-2011-D-0469"
+    ]
+  },
+    {
+    "id": "q26",
+    "question": "What risks and discomforts are required to be disclosed under the informed consent requirements?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [10, 11],
+    "expected_terms": [
+      "risks",
+      "discomforts"
+    ]
+  },
+    {
+    "id": "q27",
+    "question": "What alternative procedures or treatments should be explained during informed consent?",
+    "expected_source": "05_informed_consent_guidance.pdf",
+    "expected_pages": [12],
+    "expected_terms": [
+      "alternative procedures",
+      "courses of treatment"
+    ]
+  }
+]
